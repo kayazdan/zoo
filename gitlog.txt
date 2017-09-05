@@ -1,0 +1,1295 @@
+commit 2ffadf9ed99e28b133bd9e43bef90d21078abfe4
+Author: Chris Ortman <chrisortman@gmail.com>
+Date:   Fri Sep 1 14:06:28 2017 +0000
+
+    Fix conflict
+
+diff --git a/names.txt b/names.txt
+index 5bb85cd..3a7d75e 100644
+--- a/names.txt
++++ b/names.txt
+@@ -8,6 +8,7 @@ Barclay
+ Barney
+ Beck
+ Harry
++Neville
+ Bianca
+ Biloxi
+ Birdie
+
+commit 3f52b251184a422578830870aef16a8aaaecd6cd
+Author: Chris Ortman <chrisortman@gmail.com>
+Date:   Fri Sep 1 13:54:37 2017 +0000
+
+    Harry is better than Bellatrix
+
+diff --git a/names.txt b/names.txt
+index 0294306..5bb85cd 100644
+--- a/names.txt
++++ b/names.txt
+@@ -7,7 +7,7 @@ Balou
+ Barclay
+ Barney
+ Beck
+-Bellatrix
++Harry
+ Bianca
+ Biloxi
+ Birdie
+@@ -244,4 +244,4 @@ Zara
+ Zeke
+ Zelda
+ Zeppelin
+-ZsaZsa
+\ No newline at end of file
++ZsaZsa
+
+commit 41d4e60d2f2e017b8327790faadecac82271b0fb
+Merge: d2d9147 cc9885c
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:26:26 2017 -0500
+
+    Merge pull request #1 from chrisortman/master
+    
+    Learning how to make a commit
+
+commit d2d9147b155815634f72e690a56d5fbf520cd4b6
+Merge: fdfb0e2 30d4b7a
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:26:19 2017 -0500
+
+    Merge pull request #2 from ebmoh18/master
+    
+    Learning how to commit
+
+commit fdfb0e275fb37159033b3e83417203092cb2a8cb
+Merge: 5035fc6 00eb7ce
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:26:12 2017 -0500
+
+    Merge pull request #3 from andyhou2000/master
+    
+    Learning how to make a commit
+
+commit 5035fc6d407768d186066ea2c1c8c3a816582db4
+Merge: cbef4ac 86c6c40
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:26:03 2017 -0500
+
+    Merge pull request #4 from noah-smith/master
+    
+    Learning how to make a commit
+
+commit cbef4ac17e6db9bc38dbfd87245ba0be2ecc1c99
+Merge: 9eab984 f659da3
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:25:55 2017 -0500
+
+    Merge pull request #5 from jennarunge/master
+    
+    Learning how to make a commit
+
+commit 9eab98485f48d928091d83b37273e5ef155fe967
+Merge: 0f9d020 b632c3f
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:25:45 2017 -0500
+
+    Merge pull request #6 from Kyle-Webber/master
+    
+    Gettin' learned on the skill of "commit"
+
+commit 0f9d020f6f81152a3d09f3f4bcbc961851951f2a
+Merge: d4daa07 56560a6
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:25:37 2017 -0500
+
+    Merge pull request #7 from maurice-gallagher/master
+    
+    learning how to make a commit
+
+commit d4daa075149e98d458ecec46f2e8e04e8e62defa
+Merge: 249f198 58d77eb
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:25:29 2017 -0500
+
+    Merge pull request #8 from kayazdan/master
+    
+    Learning how to make a commit
+
+commit 249f1982c76c23329dd309f6dd54a0e0505eab45
+Merge: f9c61c0 f4dbd6f
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:25:05 2017 -0500
+
+    Merge pull request #9 from Noahster13/master
+    
+    Learning how to make a commit
+
+commit f9c61c0d364f82409c066cece16a2c933bc6d5bc
+Merge: b89fe71 80d2fff
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:24:43 2017 -0500
+
+    Merge pull request #10 from alecheil/master
+    
+    Learning how to make a commit
+
+commit b89fe7184da94eab0b366e35eafd3ad7767115f8
+Merge: 6749ac0 9cddbdd
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:24:18 2017 -0500
+
+    Merge pull request #11 from lydiahecker/master
+    
+    Learning how to make a commit
+
+commit 6749ac076b2ffa8357405e51c4a5ee5c58dd6e57
+Merge: 6f5d645 7e47743
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:23:59 2017 -0500
+
+    Merge pull request #12 from OneNobleGnome/master
+    
+    learning how to make a commit
+
+commit 6f5d645193415dad6ac8e7750b8903df8b2c7e68
+Merge: a395e8b afb3ffe
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:23:51 2017 -0500
+
+    Merge pull request #13 from BBrusegaard/master
+    
+    Learning how to make a commit
+
+commit a395e8bf4da697ecf751507191d9cfd17d715abd
+Merge: 4f5a510 d5b20d2
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:23:40 2017 -0500
+
+    Merge pull request #14 from Sophie-WH/master
+    
+    Look at me, I did it. I made a commit. Woo. Wow.
+
+commit 4f5a51047436f14b3036c203535a6e293326d41b
+Merge: 75a4130 8df34bc
+Author: Chris Ortman <chrisortman@users.noreply.github.com>
+Date:   Fri Sep 1 08:23:30 2017 -0500
+
+    Merge pull request #15 from musaabali/master
+    
+    Learing how to make a commit
+
+commit 00eb7ce2fde73d8c95f954754dcba0096c104f72
+Author: Andy Hou <andy2khou@gmail.com>
+Date:   Thu Aug 31 13:48:15 2017 +0000
+
+    Learning how to make a commit
+    
+    Fun factor is debatable
+            Edited for correct name
+
+diff --git a/k0819152/Noodle b/k0819152/Noodle
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/k0819152/Noodle
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+
+commit 80d2fff719e1508cb4a7eadc9605586ef4e48685
+Author: Alec Heil <alec-heil@student.kirkwood.edu>
+Date:   Thu Aug 31 13:47:41 2017 +0000
+
+    Learning how to make a commit
+
+diff --git a/k0466763/Tatertot b/k0466763/Tatertot
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/k0466763/Tatertot
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+
+commit 7e4774350811e8ddd91daab132b6ace9de0a4f3e
+Author: Jacob Steinman <jacob-steinman@kirkwood.edu>
+Date:   Thu Aug 31 13:47:38 2017 +0000
+
+    learning how to make a commit
+
+diff --git a/k0441803/Ed b/k0441803/Ed
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/k0441803/Ed
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+
+commit f4dbd6f2e5a9533b72d7a93f16094cb8ecc9d53e
+Author: Noah Harp <Noahster13@yahoo.com>
+Date:   Thu Aug 31 13:47:36 2017 +0000
+
+    Learning how to make a commit
+    
+    Hard :(
+    I changed it
+
+diff --git a/k0789262/Cece b/k0789262/Cece
+new file mode 100644
+index 0000000..cfa83fb
+--- /dev/null
++++ b/k0789262/Cece
+@@ -0,0 +1 @@
++Cat
+\ No newline at end of file
+
+commit 30d4b7a05b3b79aaf10ba051d2c260a3630dfe6b
+Author: Ebrahim Mohamad <ebmoh18@gmail.com>
+Date:   Thu Aug 31 13:47:32 2017 +0000
+
+    Learning how to use git
+    I changed it
+    very fun
+
+diff --git a/k0801862/China b/k0801862/China
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/k0801862/China
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+
+commit 86c6c4065cfe8b228e9039b60f6a9b4e6d488357
+Author: Noah Smith <k0789326@student.kirkwood.edu>
+Date:   Thu Aug 31 13:47:32 2017 +0000
+
+    Learning how to make a commit
+    
+    :)
+
+diff --git a/k0789326/Ed b/k0789326/Ed
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/k0789326/Ed
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+
+commit 9cddbdd248fc365bc8fc18a07e75e673a437a6a5
+Author: Lydia Hecker <lydia-hecker@student.kirkwood.edu>
+Date:   Thu Aug 31 13:47:32 2017 +0000
+
+    Learning how to make a commit
+    
+    It's not horrible :P
+    Changed to show the correct user.
+
+diff --git a/k0790323/Nico b/k0790323/Nico
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/k0790323/Nico
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+
+commit 56560a6426c9fb450611480d8683f435b504f0cf
+Author: Cade Gallagher <maurice-gallagher@student.kirkwood.edu>
+Date:   Thu Aug 31 13:47:31 2017 +0000
+
+    learning how to make a commit
+    
+    it is fun!
+    I changed it
+
+diff --git a/k0764960/Lola b/k0764960/Lola
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/k0764960/Lola
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+
+commit cc9885c69816a83e7281713119f40a2be0ca1073
+Author: Teacher McTeachface <chrisortman@gmail.com>
+Date:   Thu Aug 31 13:47:30 2017 +0000
+
+    Learning how to make a commit
+    
+    It is fun :)
+    I changed it
+
+diff --git a/k0808273/Lola b/k0808273/Lola
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/k0808273/Lola
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+
+commit f659da36a27413e25680d80a6a7f7205a726c52f
+Author: Jenna Runge <jenna-runge@student.kirkwood.edu>
+Date:   Thu Aug 31 13:47:30 2017 +0000
+
+    Learning how to make a commit
+    
+    It's something
+    I changed it
+
+diff --git a/k0789297/Tatertot b/k0789297/Tatertot
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/k0789297/Tatertot
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+
+commit d5b20d2738248012735d90e7f9e71aa259bd4242
+Author: Sophie Waterman Hines <sophiebwh@gmail.com>
+Date:   Thu Aug 31 13:47:28 2017 +0000
+
+    Look at me, I did it. I made a commit. Woo. Wow.
+
+diff --git a/k0819094/Ebony b/k0819094/Ebony
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/k0819094/Ebony
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+
+commit afb3ffe7db75ce84e48b193e08136978f108b1d7
+Author: Ben Brusegaard <ben-brusegaard@student.kirkwood.edu>
+Date:   Thu Aug 31 13:47:27 2017 +0000
+
+    Learning how to make a commit
+    
+    It is fun :)
+
+diff --git a/k0765381/Lola b/k0765381/Lola
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/k0765381/Lola
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+
+commit b632c3f7c3f47bb744c6d6cc721d8a295750f68c
+Author: Kyle Webber <k0766316@student.kirkwood.edu>
+Date:   Thu Aug 31 13:47:26 2017 +0000
+
+    Gettin' learned on the skill of "commit"
+
+diff --git a/k0766316/Biscuit b/k0766316/Biscuit
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/k0766316/Biscuit
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+
+commit 58d77eba8ab3197bd137d422adb262cd6306a198
+Author: Kaya Zdan <kaya-zdan@student.kirkwood.edu>
+Date:   Thu Aug 31 13:47:24 2017 +0000
+
+    Learning how to make a commit
+    
+    It is fun :)
+    Changes
+
+diff --git a/k0819014/Ed b/k0819014/Ed
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/k0819014/Ed
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+
+commit 8df34bc39f63f10b3c630db8a735c052d24bc1f5
+Author: Chris Ortman <chrisortman@gmail.com>
+Date:   Thu Aug 31 13:28:36 2017 +0000
+
+    Learing how to make a commit
+    
+    It is fun :)
+
+diff --git a/k0764423/Asia b/k0764423/Asia
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/k0764423/Asia
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+
+commit 75a41308d549dd32badacc548892f6f9ac225f1c
+Author: Chris Ortman <chris-ortman@uiowa.edu>
+Date:   Wed Aug 30 21:54:10 2017 -0500
+
+    Adding some animal files
+
+diff --git a/animals/Asia b/animals/Asia
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/animals/Asia
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+diff --git a/animals/Biscuit b/animals/Biscuit
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/animals/Biscuit
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+diff --git a/animals/Bordeaux b/animals/Bordeaux
+new file mode 100644
+index 0000000..129655d
+--- /dev/null
++++ b/animals/Bordeaux
+@@ -0,0 +1 @@
++Dog
+\ No newline at end of file
+diff --git a/animals/Bubbles b/animals/Bubbles
+new file mode 100644
+index 0000000..7a4918e
+--- /dev/null
++++ b/animals/Bubbles
+@@ -0,0 +1 @@
++Turtle
+\ No newline at end of file
+diff --git a/animals/Cece b/animals/Cece
+new file mode 100644
+index 0000000..cfa83fb
+--- /dev/null
++++ b/animals/Cece
+@@ -0,0 +1 @@
++Cat
+\ No newline at end of file
+diff --git a/animals/China b/animals/China
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/animals/China
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+diff --git a/animals/Claire b/animals/Claire
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/animals/Claire
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+diff --git a/animals/Clooney b/animals/Clooney
+new file mode 100644
+index 0000000..cfa83fb
+--- /dev/null
++++ b/animals/Clooney
+@@ -0,0 +1 @@
++Cat
+\ No newline at end of file
+diff --git a/animals/Cupcake b/animals/Cupcake
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/animals/Cupcake
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+diff --git a/animals/Daphne b/animals/Daphne
+new file mode 100644
+index 0000000..129655d
+--- /dev/null
++++ b/animals/Daphne
+@@ -0,0 +1 @@
++Dog
+\ No newline at end of file
+diff --git a/animals/Donovan b/animals/Donovan
+new file mode 100644
+index 0000000..7a4918e
+--- /dev/null
++++ b/animals/Donovan
+@@ -0,0 +1 @@
++Turtle
+\ No newline at end of file
+diff --git a/animals/Ebony b/animals/Ebony
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/animals/Ebony
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+diff --git a/animals/Ed b/animals/Ed
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/animals/Ed
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+diff --git a/animals/Gingi b/animals/Gingi
+new file mode 100644
+index 0000000..129655d
+--- /dev/null
++++ b/animals/Gingi
+@@ -0,0 +1 @@
++Dog
+\ No newline at end of file
+diff --git a/animals/Graysen b/animals/Graysen
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/animals/Graysen
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+diff --git a/animals/Ivory b/animals/Ivory
+new file mode 100644
+index 0000000..61f4653
+--- /dev/null
++++ b/animals/Ivory
+@@ -0,0 +1 @@
++Zebra
+\ No newline at end of file
+diff --git a/animals/Jade b/animals/Jade
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/animals/Jade
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+diff --git a/animals/Jasper b/animals/Jasper
+new file mode 100644
+index 0000000..61f4653
+--- /dev/null
++++ b/animals/Jasper
+@@ -0,0 +1 @@
++Zebra
+\ No newline at end of file
+diff --git a/animals/Jeeves b/animals/Jeeves
+new file mode 100644
+index 0000000..7036ffb
+--- /dev/null
++++ b/animals/Jeeves
+@@ -0,0 +1 @@
++Tiger
+\ No newline at end of file
+diff --git a/animals/Jenna b/animals/Jenna
+new file mode 100644
+index 0000000..7036ffb
+--- /dev/null
++++ b/animals/Jenna
+@@ -0,0 +1 @@
++Tiger
+\ No newline at end of file
+diff --git a/animals/Kai b/animals/Kai
+new file mode 100644
+index 0000000..61f4653
+--- /dev/null
++++ b/animals/Kai
+@@ -0,0 +1 @@
++Zebra
+\ No newline at end of file
+diff --git a/animals/Kaly b/animals/Kaly
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/animals/Kaly
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+diff --git a/animals/Kaya b/animals/Kaya
+new file mode 100644
+index 0000000..cfa83fb
+--- /dev/null
++++ b/animals/Kaya
+@@ -0,0 +1 @@
++Cat
+\ No newline at end of file
+diff --git a/animals/Keanna b/animals/Keanna
+new file mode 100644
+index 0000000..7036ffb
+--- /dev/null
++++ b/animals/Keanna
+@@ -0,0 +1 @@
++Tiger
+\ No newline at end of file
+diff --git a/animals/Keesha b/animals/Keesha
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/animals/Keesha
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+diff --git a/animals/Kiefer b/animals/Kiefer
+new file mode 100644
+index 0000000..cfa83fb
+--- /dev/null
++++ b/animals/Kiefer
+@@ -0,0 +1 @@
++Cat
+\ No newline at end of file
+diff --git a/animals/Lilypie b/animals/Lilypie
+new file mode 100644
+index 0000000..129655d
+--- /dev/null
++++ b/animals/Lilypie
+@@ -0,0 +1 @@
++Dog
+\ No newline at end of file
+diff --git a/animals/Lola b/animals/Lola
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/animals/Lola
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+diff --git a/animals/Luke b/animals/Luke
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/animals/Luke
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+diff --git a/animals/Malble b/animals/Malble
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/animals/Malble
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+diff --git a/animals/Margo b/animals/Margo
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/animals/Margo
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+diff --git a/animals/Mulder b/animals/Mulder
+new file mode 100644
+index 0000000..7a4918e
+--- /dev/null
++++ b/animals/Mulder
+@@ -0,0 +1 @@
++Turtle
+\ No newline at end of file
+diff --git a/animals/Mulligan b/animals/Mulligan
+new file mode 100644
+index 0000000..61f4653
+--- /dev/null
++++ b/animals/Mulligan
+@@ -0,0 +1 @@
++Zebra
+\ No newline at end of file
+diff --git a/animals/Nanda b/animals/Nanda
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/animals/Nanda
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+diff --git a/animals/Nico b/animals/Nico
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/animals/Nico
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+diff --git a/animals/Noodle b/animals/Noodle
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/animals/Noodle
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+diff --git a/animals/Olive b/animals/Olive
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/animals/Olive
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+diff --git a/animals/Owen b/animals/Owen
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/animals/Owen
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+diff --git a/animals/Parker b/animals/Parker
+new file mode 100644
+index 0000000..7a4918e
+--- /dev/null
++++ b/animals/Parker
+@@ -0,0 +1 @@
++Turtle
+\ No newline at end of file
+diff --git a/animals/Porche b/animals/Porche
+new file mode 100644
+index 0000000..cfa83fb
+--- /dev/null
++++ b/animals/Porche
+@@ -0,0 +1 @@
++Cat
+\ No newline at end of file
+diff --git a/animals/Roxie b/animals/Roxie
+new file mode 100644
+index 0000000..e8f180c
+--- /dev/null
++++ b/animals/Roxie
+@@ -0,0 +1 @@
++Yak
+\ No newline at end of file
+diff --git a/animals/Rusty b/animals/Rusty
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/animals/Rusty
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+diff --git a/animals/Skyler b/animals/Skyler
+new file mode 100644
+index 0000000..7036ffb
+--- /dev/null
++++ b/animals/Skyler
+@@ -0,0 +1 @@
++Tiger
+\ No newline at end of file
+diff --git a/animals/Spark b/animals/Spark
+new file mode 100644
+index 0000000..a442a3b
+--- /dev/null
++++ b/animals/Spark
+@@ -0,0 +1 @@
++Giraffe
+\ No newline at end of file
+diff --git a/animals/Stitch b/animals/Stitch
+new file mode 100644
+index 0000000..d158506
+--- /dev/null
++++ b/animals/Stitch
+@@ -0,0 +1 @@
++Rabbit
+\ No newline at end of file
+diff --git a/animals/Sunny b/animals/Sunny
+new file mode 100644
+index 0000000..7036ffb
+--- /dev/null
++++ b/animals/Sunny
+@@ -0,0 +1 @@
++Tiger
+\ No newline at end of file
+diff --git a/animals/Syrah b/animals/Syrah
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/animals/Syrah
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+diff --git a/animals/Tango b/animals/Tango
+new file mode 100644
+index 0000000..9fdbe19
+--- /dev/null
++++ b/animals/Tango
+@@ -0,0 +1 @@
++Elephant
+\ No newline at end of file
+diff --git a/animals/Tatertot b/animals/Tatertot
+new file mode 100644
+index 0000000..5fb3d73
+--- /dev/null
++++ b/animals/Tatertot
+@@ -0,0 +1 @@
++Snake
+\ No newline at end of file
+diff --git a/animals/Wolfie b/animals/Wolfie
+new file mode 100644
+index 0000000..cfa83fb
+--- /dev/null
++++ b/animals/Wolfie
+@@ -0,0 +1 @@
++Cat
+\ No newline at end of file
+
+commit bd4287c06e4afa28381285e1fe559f2a250a8095
+Author: Chris Ortman <chris-ortman@uiowa.edu>
+Date:   Wed Aug 30 21:45:49 2017 -0500
+
+    Tweak script to use names file
+
+diff --git a/bin/make-zoo.py b/bin/make-zoo.py
+index 7bc2b7a..02ddd0b 100644
+--- a/bin/make-zoo.py
++++ b/bin/make-zoo.py
+@@ -10,24 +10,18 @@ import random
+ animals = [
+     "Dog",
+     "Cat",
+-    "Snake"
++    "Snake",
++    "Rabbit",
++    "Yak",
++    "Turtle",
++    "Elephant",
++    "Giraffe",
++    "Tiger",
++    "Zebra"
+ ]
+ 
+-names = [
+-    "Sassy",
+-    "Peaches",
+-    "Mittens",
+-    "Santas Little Helper",
+-    "Snowball",
+-    "Buttercup",
+-    "Rex",
+-    "Fido",
+-    "Bullseye",
+-    "Harvey",
+-    "Excelsior",
+-    "Maximus",
+-    "Roger",
+-]
++names = [n.rstrip() for n in open("names.txt").readlines()]
++names = random.sample(names, 50)
+ 
+ def write_animal_file(name,kind,in_dir):
+     file_path = os.path.join(in_dir, name)
+
+commit ab0da1c62a430a891b45538e7cb01d3ece7d5a35
+Author: Chris Ortman <chris-ortman@uiowa.edu>
+Date:   Wed Aug 30 21:42:31 2017 -0500
+
+    Adding names file
+
+diff --git a/names.txt b/names.txt
+new file mode 100644
+index 0000000..0294306
+--- /dev/null
++++ b/names.txt
+@@ -0,0 +1,247 @@
++Acorn
++Alvin
++Asia
++Audi
++Bagel
++Balou
++Barclay
++Barney
++Beck
++Bellatrix
++Bianca
++Biloxi
++Birdie
++Biscuit
++Blanca
++Bobbafett
++Bodie
++Bono
++Booboo
++Bootsie
++Bordeaux
++Brandy
++Bren
++Bronco
++Bruin
++Bubbles
++Buffy
++Burt
++Butler
++Button
++Calvin
++Candy
++Carter
++Cece
++Cessa
++Chandler
++Chaucer
++Chevy
++China
++Choochoo
++Cisco
++Claire
++Cleopatra
++Clooney
++Coco(nut)
++Connor
++Cosmo
++Crosby
++Cupcake
++Daisy
++Dallas
++Daphne
++Delilah
++Diva
++Doc
++Domino
++Donna
++Donovan
++Dulus
++Dutch
++Ebony
++Ed
++Elton
++Elwood
++Ernie
++Faith
++Faya
++Felix
++Fig
++Fiona
++Foxy
++Fritz
++Fuse
++Giblet
++Gibson
++Gingi
++Goofy
++Graysen
++Greystoke
++Guinness
++Hershey
++Holly
++Honey
++Huck Finn
++Hudson
++Hutch
++Ike
++Indira
++Iris
++Ivory
++Jade
++Jasmine
++Jasper
++Jazzy
++Jeeves
++Jenna
++Jenne
++Joy
++Kai
++Kalua
++Kaly
++Kassie
++Kaya
++Keanna
++Keesha
++Keiko
++Kiefer
++Kingston
++Koby
++Kona
++Laguna
++Landon
++Larissa
++Lefty
++Leia
++Lexi
++Lil’bit
++Lilypie
++Linus
++Logan
++Lola
++Luca
++Lucy
++Luke
++Madonna
++Malble
++Malibu
++Margo
++Marshmellow
++Marti
++Max
++Maya
++Meadow
++Mercedes
++Merlot
++Merry
++Mia
++Midnight
++Midori
++Mika
++Milan
++Mira
++Mischa
++Mitzi
++Moby
++Mochi
++Monet
++Monkey
++Mooshie
++Mozart
++Mr Big
++Muggles
++Mulder
++Mulligan
++Murphy
++Mylo
++Nanda
++Nate
++Nell
++Niana
++Nico
++Noodle
++Nugget
++Olive
++Onyx
++Otis
++Owen
++Ozzie
++Paddington
++Paisley
++Paris
++Parker
++Paulie
++Pazzo
++Peanut
++Pearl
++Pepper
++Persia
++Pesci
++Phoenix
++Picasso
++Pinot
++Pipsie
++Pixie
++Porche
++Quattro
++Ramona
++Redford
++Reece
++Rico
++Robin Hood
++Rocco
++Rocky
++Romeo
++Roxie
++Rufus
++Rusty
++Scotty
++Scout
++Shadow
++Shaggy
++Shane
++Shaq
++Sheba
++Silas
++Skip
++Skitty
++Skyler
++Smitty
++Snooky
++Snoopy
++Sookie
++Spark
++Sprite
++Stitch
++Strsky
++Sugar
++Summer
++Sunny
++Sushi
++Sweetpea
++Syrah
++Tallulah
++Tango
++Tank
++Tanner
++Tatertot
++Theo
++Tibbs
++Timber
++Tink
++Toast
++Toffee
++Tonka
++Vegas
++Wednesday
++Wilbur
++Willow
++Winnie
++Wolfie
++Yoshiko
++Zach
++Zara
++Zeke
++Zelda
++Zeppelin
++ZsaZsa
+\ No newline at end of file
+
+commit 95b5ae7433212c04748796aec6455dbb71725652
+Author: Chris Ortman <chris-ortman@uiowa.edu>
+Date:   Wed Aug 30 21:35:01 2017 -0500
+
+    Adding python  scripts
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..e69de29
+diff --git a/bin/check-zoo.py b/bin/check-zoo.py
+new file mode 100755
+index 0000000..3522602
+--- /dev/null
++++ b/bin/check-zoo.py
+@@ -0,0 +1,69 @@
++# argv represents the arguments to our program on the command line
++from sys import argv, exit
++
++# os has functions for working with files, paths, and directories
++import os
++
++import string
++
++zoo_dir = ''
++
++if len(argv) > 1:
++    dont_care, first_arg = argv
++    zoo_dir = os.path.abspath(first_arg)
++else:
++    zoo_dir = os.path.abspath(".")
++
++os.chdir(zoo_dir)
++
++if not os.path.exists("zoo"):
++    print "Zoo directory not found in %s" % os.getcwd()
++    exit(1)
++
++if not os.path.isdir("zoo"):
++    print "Zoo is not a directory"
++    exit(1)
++
++print "Zoo directory found"
++
++animal_kind_dirs = os.listdir("zoo")
++
++if not animal_kind_dirs:
++    print "Nothing in zoo, maybe you should put some animals in there."
++    exit(1)
++    
++animal_count = 0
++
++for dir_name in os.listdir("zoo"):
++
++    animal_kind_directory = os.path.join("zoo", dir_name)
++
++    if not os.path.isdir(animal_kind_directory):
++        print "Found %s in zoo, maybe it should be in a pen (folder) with other animals of its kind" % animal_kind_directory
++        exit(1)
++
++    print "Checking animals in %s" % dir_name
++
++    for file_name in os.listdir(animal_kind_directory):
++
++        animal_name_file = os.path.join(animal_kind_directory,file_name)
++
++        if not os.path.isfile(animal_name_file):
++            print "Found %s in %s but it was not a file" % (animal_name_file, dir_name)
++            exit(1)
++
++        print "Checking animal %s" % file_name
++        animal_file = open(animal_name_file)
++        file_contents = string.join(animal_file.readlines()).rstrip()
++
++        if file_contents != dir_name:
++            print "%s should be in the %s folder" % (file_name, file_contents)
++            exit(1)
++
++        animal_count = animal_count + 1
++            
++if animal_count != 13:
++    print "Looks like you're missing some animals. There should be 13 but I found %d" % animal_count
++    
++print "Everything A-Ok!"
++
+diff --git a/bin/make-zoo.py b/bin/make-zoo.py
+new file mode 100644
+index 0000000..7bc2b7a
+--- /dev/null
++++ b/bin/make-zoo.py
+@@ -0,0 +1,56 @@
++# argv represents the arguments to our program on the command line
++from sys import argv
++
++# os has functions for working with files, paths, and directories
++import os
++
++# has functions so we can get random animal kinds
++import random
++
++animals = [
++    "Dog",
++    "Cat",
++    "Snake"
++]
++
++names = [
++    "Sassy",
++    "Peaches",
++    "Mittens",
++    "Santas Little Helper",
++    "Snowball",
++    "Buttercup",
++    "Rex",
++    "Fido",
++    "Bullseye",
++    "Harvey",
++    "Excelsior",
++    "Maximus",
++    "Roger",
++]
++
++def write_animal_file(name,kind,in_dir):
++    file_path = os.path.join(in_dir, name)
++    animal_file = open(file_path, "w")
++    animal_file.write(kind)
++    animal_file.close()
++
++def pick_where_files_will_be_written():
++    if len(argv) > 1:
++        dont_care, first_arg = argv
++        return os.path.abspath(first_arg)
++    else:
++        return os.path.abspath(".")
++
++out_dir = pick_where_files_will_be_written()
++
++if out_dir and not os.path.exists(out_dir):
++    print "Output goes to %s" % out_dir
++    os.makedirs(out_dir)
++
++for n in names:
++    kind = random.choice(animals)
++    print "Animal %s is a %s" % (n,kind)
++    write_animal_file(n, kind, out_dir)
++
++print "Done!"
